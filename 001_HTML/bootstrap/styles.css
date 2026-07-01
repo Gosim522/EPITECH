@@ -1,0 +1,41 @@
+/* ===== Step 3: 기본 타이포그래피 & 배경 ===== */
+body {
+    background-color: #f4f4f9;          /* 아주 연한 회색 */
+    font-family: Arial, sans-serif;     /* 기본 폰트 변경 */
+    color: #333333;                     /* 순수 검정보다 읽기 편한 진회색 */
+}
+
+h1 {
+    color: #2b6cb0;       /* 보기 좋은 파란색 */
+    text-align: center;   /* 가로 가운데 정렬 */
+}
+
+/* ===== Step 4: 박스 모델 - 기사 카드 ===== */
+article {
+    background-color: white;
+    padding: 20px;                                  /* 카드 안쪽 여백 */
+    margin: 20px;                                   /* 카드 바깥쪽 여백 */
+    border-radius: 8px;                             /* 모서리 둥글게 */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);     /* 은은한 그림자 */
+}
+
+/* ===== Step 4: Flexbox - 내비게이션 메뉴 ===== */
+.menu {
+    display: flex;                /* Flexbox 활성화 */
+    justify-content: center;      /* 항목 가로 가운데 정렬 */
+    gap: 30px;                    /* 링크 사이 간격 */
+    background-color: #1a202c;
+    padding: 15px;
+}
+
+.menu a {                        /* .menu 안의 모든 <a> 태그 대상 */
+    color: white;                /* 링크를 흰색으로 */
+    text-decoration: none;       /* 기본 밑줄 제거 */
+    font-weight: bold;
+}
+
+.article-grid {
+display: flex; /* 컨테이너를 유연한 행(flexible row)으로 바꿉니다 */
+justify-content: space-between; /* 항목들을 펼쳐서 배치합니다 */
+gap: 20px; /* 항목들 사이에 간격 추가 합니다 */
+}

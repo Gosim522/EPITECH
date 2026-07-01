@@ -1,0 +1,155 @@
+==================================================
+SCHOOL DIGITAL NEWSPAPER — HOMEPAGE ARTICLES
+Part 1: AI & Automation  |  5 articles, each English body under 100 words
+EN = AP / inverted-pyramid style
+KR = 초월번역 (직역 아님): 한국식 헤드라인+부제, ~다체 단문, 한국 인용·이름
+근거: style_research.md 참고
+==================================================
+
+
+--- ARTICLE 1 — Cafeteria ---
+
+[EN]
+Title: Goodbye Soggy Fries: Cafeteria Unveils Bold New Menu
+
+The campus cafeteria reopened Monday with a redesigned menu, and the
+lunch line tells the story. Out went the tired sandwiches; in came
+build-your-own bowls, a vegan station, and locally sourced coffee.
+"I actually look forward to lunch now," said second-year student Mara
+Lin. Staff say the changes follow months of student surveys demanding
+fresher, healthier options. Prices stayed the same, a detail few
+students missed. Whether the buzz lasts beyond opening week remains to
+be seen — but for now, the cafeteria is the busiest spot on campus.
+
+[KR]
+제목: 눅눅한 감자튀김은 그만…구내식당 새 메뉴에 점심 줄 북적
+부제: 직접 만드는 보울·비건 코너·지역산 커피 등장…가격은 그대로
+
+캠퍼스 구내식당이 지난 월요일 새 단장한 메뉴로 다시 문을 열었다.
+길게 늘어선 점심 줄이 달라진 인기를 보여준다. 식상한 샌드위치는
+사라졌다. 대신 직접 만드는 보울, 비건 코너, 지역산 원두 커피가
+들어섰다. 2학년 김서연 학생은 "이제 점심시간이 진짜 기다려진다"고
+말했다. 식당 측은 더 신선하고 건강한 메뉴를 원하는 학생 설문이
+수개월간 이어진 결과라고 밝혔다. 가격은 그대로 유지됐다. 이 열기가
+첫 주를 넘어 이어질지는 지켜봐야 한다. 다만 지금 구내식당은 캠퍼스에서
+가장 붐비는 곳이다.
+
+
+--- ARTICLE 2 — All-night coding session ---
+
+[EN]
+Title: Caffeine and Code: Inside Campus's All-Night Hackathon
+
+The third-floor lab never went dark this weekend. More than sixty
+students powered through a 24-hour coding marathon, fueled by pizza,
+energy drinks, and sheer stubbornness. Teams raced to build working
+apps before the noon deadline, from a campus carpool tracker to a
+study-buddy matcher. "Around 4 a.m. everything either breaks or finally
+works," laughed organizer Devon Park. Mentors roamed the room offering
+debugging help and quiet encouragement. By morning, bleary eyes met
+working demos. The winning team earned bragging rights — and, perhaps
+more importantly, a full day of sleep.
+
+[KR]
+제목: 피자·에너지드링크·끈기로 버틴 24시간…밤샘 해커톤 현장
+부제: 60여 명 참가, 카풀 추적기부터 스터디 매칭까지…"새벽 4시가 고비"
+
+지난 주말 3층 실습실은 밤새 불이 꺼지지 않았다. 학생 60여 명이
+24시간 코딩 마라톤에 매달렸다. 버팀목은 피자와 에너지드링크,
+그리고 끈기였다. 팀들은 정오 마감 전까지 작동하는 앱을 완성하려
+달렸다. 캠퍼스 카풀 추적기, 스터디 메이트 매칭 앱 등 아이디어도
+다양했다. 행사를 준비한 박도현 씨는 "새벽 4시쯤이면 모든 게
+망가지거나 마침내 작동한다"며 웃었다. 멘토들은 실습실을 돌며
+디버깅을 돕고 조용히 응원했다. 아침이 밝자 충혈된 눈앞에 작동하는
+데모가 놓였다. 우승팀은 자랑할 권리를 얻었다. 그리고 더 값진 하루치
+잠도 함께 얻었다.
+
+
+--- ARTICLE 3 — Student gaming tournament ---
+
+[EN]
+Title: Game On: Student Tournament Draws Record Crowd
+
+The auditorium roared Friday night as two hundred students packed in
+for the semester's biggest esports tournament. Sixteen teams battled
+across three games, with the final decided by a single, nail-biting
+round. "I've never heard the room that loud," said event host Aisha
+Cole. Beyond the competition, the night doubled as a fundraiser for the
+student tech fund. Organizers say interest doubled from last year,
+hinting at a permanent league next semester. For winners and spectators
+alike, the message was clear: campus gaming is no longer a niche — it's
+an event.
+
+[KR]
+제목: 강당 가득 메운 200명…학생 e스포츠 토너먼트 '역대급 흥행'
+부제: 16개 팀 3개 종목 격돌…수익금은 학생 기술 기금에 기부
+
+지난 금요일 밤 강당이 들썩였다. 이번 학기 최대 규모 e스포츠
+토너먼트를 보러 학생 200명이 몰렸다. 16개 팀이 세 개 종목에서
+맞붙었다. 결승은 손에 땀을 쥐게 한 단 한 라운드로 갈렸다. 진행을
+맡은 최아인 씨는 "강당이 이렇게 시끄러운 건 처음"이라고 말했다.
+이날 행사는 경기를 넘어 모금 행사도 겸했다. 수익금은 학생 기술
+기금으로 전달된다. 주최 측은 관심이 작년의 두 배로 늘었다며 다음
+학기 정규 리그 출범 가능성을 내비쳤다. 우승자에게도 관중에게도
+메시지는 분명했다. 캠퍼스 게임은 더 이상 소수의 취미가 아니다.
+이제 하나의 '이벤트'다.
+
+
+--- ARTICLE 4 — Upcoming exam period ---
+
+[EN]
+Title: Brace Yourselves: Exam Week Is Almost Here
+
+With finals just two weeks away, the library is filling fast and the
+stress is palpable. Students are forming study groups, booking quiet
+rooms, and trading notes online. Faculty have extended library hours and
+added review sessions for the most demanding courses. "Start now, not
+the night before," advised academic counselor Tom Reyes, echoing advice
+students rarely follow. The counseling center is also offering drop-in
+support for exam anxiety. Whether you thrive under pressure or dread the
+countdown, one thing is certain: the next fortnight will test more than
+just memory.
+
+[KR]
+제목: 기말고사 2주 앞…도서관은 벌써 만석, 캠퍼스에 긴장감
+부제: 스터디 그룹·열람실 예약 분주…상담센터 "시험 불안 즉석 상담"
+
+기말고사가 2주 앞으로 다가왔다. 도서관은 빠르게 들어차고, 캠퍼스에는
+긴장감이 감돈다. 학생들은 스터디 그룹을 꾸리고 조용한 열람실을
+예약한다. 온라인으로 필기를 주고받는 모습도 흔하다. 학교는 도서관
+운영 시간을 늘리고, 까다로운 과목에는 복습 세션을 추가했다. 학업
+상담사 정태경 씨는 "전날 밤이 아니라 지금 시작하라"고 조언했다.
+학생들이 좀처럼 따르지 않는 말이기도 하다. 상담센터는 시험 불안에
+대한 즉석 상담도 운영한다. 압박 속에서 빛을 발하든, 카운트다운이
+두렵든 분명한 사실이 하나 있다. 다가오는 2주는 기억력 그 이상을
+시험한다.
+
+
+--- ARTICLE 5 — Tech workshop ---
+
+[EN]
+Title: From Zero to App: Free Workshop Packs the Room
+
+Curiosity beat the early start time as students filled the hall for
+Saturday's hands-on tech workshop. Over three hours, attendees built
+their first web app from scratch, guided by industry volunteers. "I came
+in knowing nothing and left with something that actually runs," said
+first-year Noor Haddad. The free session, part of a campus push to
+broaden tech skills, drew students from every department — not just
+computer science. Organizers plan a follow-up on AI tools next month.
+Seats, they warn, will go fast. For many, it was proof that coding isn't
+only for the experts.
+
+[KR]
+제목: "아무것도 모르고 왔는데 앱을 만들었다"…무료 워크숍 만석
+부제: 업계 멘토와 3시간 실습…전 학과서 몰려, 다음 달 AI 후속편 예고
+
+토요일 이른 시간에도 강의실은 학생들로 가득 찼다. 실습형 기술
+워크숍을 향한 호기심이 졸음을 이겼다. 참가자들은 세 시간 동안 처음으로
+웹 앱을 밑바닥부터 만들었다. 곁에는 업계 자원봉사자들이 함께했다.
+1학년 한지우 학생은 "아무것도 모르고 왔는데 실제로 작동하는 걸
+만들어 나갔다"고 말했다. 기술 역량을 넓히려는 학교 차원의 행사로,
+컴퓨터공학과뿐 아니라 모든 학과 학생이 모였다. 주최 측은 다음 달 AI
+도구를 다루는 후속 세션을 예고했다. 자리는 금방 찬다고 귀띔했다.
+많은 학생에게 이번 워크숍은 코딩이 전문가만의 것이 아님을 보여준
+증거였다.
