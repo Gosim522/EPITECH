@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Goodbye Soggy Fries: Cafeteria Unveils Bold New Menu",
+    "excerpt": "The campus cafeteria reopened Monday with build-your-own bowls, a vegan station, and locally sourced coffee.",
+    "author": "Mara Lin",
+    "likes": 6
+  },
+  {
+    "id": 2,
+    "title": "Caffeine and Code: Inside Campus's All-Night Hackathon",
+    "excerpt": "More than sixty students powered through a 24-hour coding marathon, fueled by pizza and sheer stubbornness.",
+    "author": "Devon Park",
+    "likes": 7
+  },
+  {
+    "id": 3,
+    "title": "Game On: Student Tournament Draws Record Crowd",
+    "excerpt": "Two hundred students packed the auditorium for the semester's biggest esports tournament.",
+    "author": "Aisha Cole",
+    "likes": 3
+  }
+]

@@ -26,3 +26,6 @@ pnpm-debug.log*
 
 # Claude local state
 .claude/
+
+# 별도 레포로 관리 (museum-is-alive)
+006_미술관이 살아있다/
